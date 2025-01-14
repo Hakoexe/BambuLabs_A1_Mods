@@ -51,4 +51,4 @@ Source:
 ```bash
 https://makerworld.com/en/models/991091#profileId-966582
 ```
-> Tip: I like this mount better than the other one but wanted to include both of them. The creator also havve a mount for the G3 as well. 
+> Tip: I like this mount better than the other one but wanted to include both of them. The creator also has a mount for the G3 as well. 
