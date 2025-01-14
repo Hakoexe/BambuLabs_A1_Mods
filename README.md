@@ -33,7 +33,7 @@ Source:
 ```bash
 https://makerworld.com/en/models/837900#profileId-783498
 ```
-> Tip: I use Unifi products, which is why I included this in the setup. I used a G4 Instant, and it worked well, but you can substitute any third-party camera you prefer. Personally, I just like Unifi products.
+> Tip: I use Unifi products, which is why I included this in the setup. I used a G4 Instant, and it worked well, but you can substitute any third-party camera you prefer. Personally, I just like Unifi products. I will also note the mount doesnt work but if you clip the tabs off it'tt work with the sticky pad that comes with it. But the other mod in this list was WAY better IMO
 
 >> For the A1, this worked great for me. I heated the end that connects to the printer slightly to make it more pliable and pushed it in—it’s a pretty snug friction fit. I printed this with 100% infill for added durability. Be careful with the hooks, as they’re quite delicate. When removing supports, I opted not to use any, and it still turned out fine.
 
@@ -45,3 +45,10 @@ https://www.printables.com/model/817051-bambu-filament-swatch-box-with-printable
 > Tip: My tolerances were slightly off on this print, but it still turned out pretty well. Overall, it’s a solid option for the included swatch kit. I have a preferred swatch kit design available in a repo (LINK HERE IF I MADE IT), but this one isn’t a bad alternative.
 
 >> For the print, I used pan head Phillips M3x0.5 x30 screws. I got mine at Home Depot. They fit snugly, but I recommend using a drill to clear out the supports and make the holes more uniform. I didn’t use any caps on the ends, as the M3x0.5 x30 screws fit perfectly without any excess. If you want to add caps, you can use M3x0.5 x35 screws or. DO NOT OVER-TIGHTEN THESE SCREWS. Remember, it’s plastic, so they only need to be about 98% snug—just enough to hold everything securely without overtightening.
+>>
+>> ### A1 Screen Mount for Unifi G4 Instant
+Source:
+```bash
+https://makerworld.com/en/models/991091#profileId-966582
+```
+> Tip: I like this mount better than the other one but wanted to include both of them. The creator also havve a mount for the G3 as well. 
